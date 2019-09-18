@@ -1,0 +1,11 @@
+.books-section{
+    /* background-color: brown; */
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    width:1400px;
+    height: 80vh;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px darkgray
+}
